@@ -1,6 +1,6 @@
 # mcq
 
-A new Flutter project.
+MCQ App is the flutter project to give simple MCQ question and the result is displayed at the end of the test.
 
 ## Getting Started
 
