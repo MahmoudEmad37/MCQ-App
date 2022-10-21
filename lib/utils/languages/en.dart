@@ -1,0 +1,18 @@
+const Map<String, String> en = {
+  'SignUp': 'SignUp',
+  'name':'Enter your name',
+  'cName':'Enter correct name',
+  'number':'Enter your number',
+  'cNumber':'Enter correct phone number',
+  'email':'Enter your email',
+  'cEmail':'Enter correct email',
+  'password':'Enter your password',
+  'cPassword':'Enter correct password',
+  'confirmPassword':'Confirm your password',
+  'CconfirmPassword':'Enter same password',
+  'sign_up':'SIGN UP',
+  'submitting':'Submitting form',
+  'signup_using':'Or Signup using',
+  'result':'Result',
+  'scored':'You scored',
+};
